@@ -18,14 +18,15 @@ test with Mocha and connect to a database in MongoDB
 - JSON Web Tokens
 - Passport
 
-## :telescope: References
-- [Official REST API NASA NEOWS Documentation][neowsapp]
-- [Jet Propulsion Laboratory][jpl]
-- [Center for Nearth Earth Object Studies][cneos]
-
 ## :alarm_clock: Testing
  -  Run in the root folder service `npm t` to run test cases of this service built with **Mocha,testserver,proxyquire,sinon**
 
+## :telescope: References
+- [Express Documentation][express_url]
+- [MongoDB Documentation][mongo_url]
+
 [express]: https://platzi.com/cursos/express-js/
+[express_url]: https://expressjs.com/en/api.html
+[mongo_url]: https://docs.mongodb.com/
 
 
